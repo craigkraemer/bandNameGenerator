@@ -1,1 +1,2 @@
-# band_name_generator
+# band_name_generato
+Creates your band name, just for fun.
